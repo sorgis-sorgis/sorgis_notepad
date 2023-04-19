@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: sorgis notepad
+## Author: https://github.com/sorgis-sorgis
+## Version: 1.0.0
+## Notes: note taking window, saves content between sessions. type `/snp` in chat for options
+## SavedVariables: sorgis_notepad_contents
+## SavedVariablesPerCharacter: sorgis_notepad_visible
+main.lua
